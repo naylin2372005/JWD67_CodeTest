@@ -85,6 +85,7 @@ public class BookController {
 
 	        model.addAttribute("book", book);
 
+//	        return "book_info";
 	        return "book_info";
 	    }
 
